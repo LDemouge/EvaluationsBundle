@@ -1,0 +1,3 @@
+agc_evaluations_homepage:
+    path:     /
+    defaults: { _controller: AgcEvaluationsBundle:Default:index }
